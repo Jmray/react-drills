@@ -22,3 +22,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.inputBox{
+    border: 2px solid rgba(0, 153, 255, 0.774);
+    opacity: 0.9;
+    border-radius: 3px;
+
+  
+}
+.displayBox{
+    margin-top: 10px;
+    font-weight: bold;
+}
